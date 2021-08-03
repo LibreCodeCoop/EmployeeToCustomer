@@ -1,6 +1,6 @@
 # Associate Employee to customer
 
-App for Akaunting to associate employee to customer. With this app contacts with the employee type can be used as customers.
+App for [Akaunting](https://github.com/akaunting/akaunting) to associate employee to customer. With this app contacts with the employee type can be used as customers.
 
 ## How to install
 
